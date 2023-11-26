@@ -1,6 +1,15 @@
 # timekeeper
 
-A new Flutter project.
+**Status: In Development**  
+**Developed On: Dart & Flutter** 
+
+## What's Done?
+- Home Page UI
+- Navigation Bar
+- World Map UI
+- World Map City Highlighting
+- Digital Clock UI and Functionality
+- Clock Page UI
 
 ## Getting Started
 
